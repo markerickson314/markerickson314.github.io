@@ -2,9 +2,9 @@ h1 {
  font-family: Georgia, serif;
  font-size: 2rem;
  border-bottom: solid black 5px;
+ margin: 0 auto;
 }
 
 .career p {
- position:relative;
  float:right;
 }
