@@ -1,3 +1,4 @@
-p {
- 
+.career p {
+ position:relative;
+ float:right;
 }
