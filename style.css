@@ -5,6 +5,11 @@ h1 {
  text-align: center;
 }
 
+.address p {
+ text-align: center;
+ margin: 0px;
+}
+
 .dates p {
  float:right;
 }
